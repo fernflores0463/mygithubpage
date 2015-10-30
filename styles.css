@@ -1,7 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=Poiret+One);
+
+li {
+	display: inline;
+}
+
 body {
-  background: hsla(0, 0%, 0%, 1);
-  margin: 0;
-  overflow: hidden;
-  cursor: move;
+	background-color: #33CC33
 }
